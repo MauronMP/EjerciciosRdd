@@ -1,0 +1,5 @@
+Warning:Error del sistema
+Warning:Error al cargar el fichero
+Error:No se ha introducido bien la contraseña
+Error:No se ha introducido bien el usuario
+Error:Ldap_add(68)file already exists
